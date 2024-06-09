@@ -106,7 +106,7 @@ Role of a Software Project Manager:
 3. Risk Management: Identify and mitigate risks.
 4. Communication: Facilitate communication among team members and stakeholders.
 5. Quality Assurance: Ensure the project meets quality standards.
-Key Responsibilities:
+Key Responsibilities: 
 1. Budget Management: Ensure the project stays within budget.
 2. Team Leadership: Motivate and manage the project team.
 3. Stakeholder Management: Manage expectations and keep stakeholders informed.
